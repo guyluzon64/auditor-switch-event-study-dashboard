@@ -1,0 +1,8 @@
+{
+  "source_name": "Google Finance",
+  "test_url": "https://www.google.com/finance/",
+  "http_status_code": 200,
+  "accessible_boolean": true,
+  "error_message": "",
+  "tested_at": "2026-05-27T10:53:06.181172+00:00"
+}

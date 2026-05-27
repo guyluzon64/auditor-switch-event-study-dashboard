@@ -1,0 +1,6 @@
+﻿source_name,test_url,http_status_code,accessible_boolean,error_message,tested_at
+Google Finance,https://www.google.com/finance/,200,True,,2026-05-27T10:53:06.181172+00:00
+Investing.com,https://www.investing.com/,200,True,,2026-05-27T10:53:07.246029+00:00
+Bizportal,https://www.bizportal.co.il/,200,True,,2026-05-27T10:53:08.296093+00:00
+Globes,https://www.globes.co.il/,200,True,,2026-05-27T10:53:08.706261+00:00
+Maya / TASE,https://maya.tase.co.il/,200,True,,2026-05-27T10:53:09.117052+00:00

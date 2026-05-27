@@ -1,0 +1,8 @@
+{
+  "source_name": "Investing.com",
+  "test_url": "https://www.investing.com/",
+  "http_status_code": 200,
+  "accessible_boolean": true,
+  "error_message": "",
+  "tested_at": "2026-05-27T10:53:07.246029+00:00"
+}

@@ -1,0 +1,19 @@
+﻿metric,value
+number_of_rows,50
+number_of_unique_companies,49
+missing_company_names,0
+missing_or_invalid_event_dates,0
+duplicated_company_event_date_rows,0
+duplicated_company_name_rows,2
+switch_type_distribution: Small to Small,29
+switch_type_distribution: Big to Small,11
+switch_type_distribution: Small to Big,10
+date_range_min,2019-09-25
+date_range_max,2026-07-05
+percentage_ready_for_ticker_mapping,100.0
+number_of_future_events,2
+number_eligible_for_price_extraction,48
+number_with_reported_stock_change,13
+number_with_valid_price_consistency_check,13
+number_consistent_reported_vs_implied_returns,13
+number_large_price_consistency_differences,0

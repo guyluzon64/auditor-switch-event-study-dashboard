@@ -1,0 +1,10 @@
+﻿metric,value
+number_of_unique_companies,49.0
+number_mapped_manually,48.0
+number_mapped_automatically_verified,0.0
+number_partial_mapping,0.0
+number_pending_manual_review,1.0
+number_no_identifier_found,0.0
+number_invalid_company_name,0.0
+percentage_with_any_identifier,97.96
+percentage_ready_for_price_extraction,97.96

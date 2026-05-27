@@ -1,0 +1,5 @@
+﻿event_id,company_name,switch_type,event_date,yahoo_ticker,stock_return_pct,ta125_return_pct,market_adjusted_return_pct,reaction_direction,outlier_note
+20,"שדה נדל""ן",Small to Big,2020-07-09,SADE.TA,100.77484047402004,1.8114208175181945,98.96341965650184,Positive,"Extreme return; verify ticker, corporate actions, liquidity, and event-date validity."
+25,אקסיליון,Small to Small,2020-09-08,AILN.TA,-99.20578125,-4.709471722865932,-94.49630952713407,Negative,"Extreme return; verify ticker, corporate actions, liquidity, and event-date validity."
+34,פסיירקס ביוטק,Small to Small,2026-02-12,PSRX.TA,28.556373064684326,3.6198675601875063,24.93650550449682,Positive,Large return; recommended manual review.
+48,איי ארגנטו,Small to Big,2024-02-11,IARG.TA,-19.857769390452283,4.583335671415112,-24.441105061867397,Negative,Large return; recommended manual review.

@@ -1,0 +1,9 @@
+{
+  "companies_still_missing_all_identifiers": 49,
+  "companies_with_google_finance_symbol": 0,
+  "companies_with_isin": 0,
+  "companies_with_tase_security_id": 0,
+  "companies_with_yahoo_ticker": 0,
+  "percentage_ready_for_price_extraction": 0.0,
+  "total_companies": 49
+}
